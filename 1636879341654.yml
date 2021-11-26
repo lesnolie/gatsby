@@ -8,7 +8,7 @@ proxies:
   - {name: 🇺🇲 @Cat.29的VultrUS Cat公益, server: api.wwsq.xyz, port: 443, type: vmess, uuid: 28d635e3-0f52-45af-f745-9f41836d65f2, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /apiv4, ws-headers: {Host: api.wwsq.xyz}}
   - {name: 永久维护 ZR公益, server: azhk.xhbao.me, port: 58963, type: vmess, uuid: 26326400-33c2-11ec-83c0-414353016dec, alterId: 0, cipher: auto, tls: false}
   - {name: 永久维护(备用机子)别挤 ZR公益, server: zzr.zzzr.ltd, port: 2053, type: vmess, uuid: a737264c-2bea-11ec-83c0-414353016dec, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /8qgBdhe3/, ws-headers: {Host: zzr.zzzr.ltd}}
-  - {name: leslie, server: v2ray-vmess.lesliedrive.workers.dev, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: 7D8EB24F-E98A-59DA-BDC0-F6792D987835}}
+  - {name: leslie, server: v2ray-vmess.lesliedrive.workers.dev, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: v2ray-vmess.lesliedrive.workers.dev}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
